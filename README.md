@@ -22,6 +22,12 @@ Copy and Paste the Git URL for this Repo: https://github.com/dabblelab/apl-demos
 
 That's it, now your skill would be ready to go!
 
-But wait! You still need to go to interfaces:
+But wait! You still need to go to interfaces from the **Build** tab of your **Alexa** **Skill's** **Developer** **Console**. And turn the **APL** interface on!
 
-![]()
+That's it, now you're good to go!
+
+Stay tuned to the upcoming videos, subscribe to our [Youtube Channel](https://www.youtube.com/dabblelab) and find us everywhere as @dabblelab.
+
+For any queries, related to this code or business find me on [LinkedIn](https://www.linkedin.com/in/sohini-pattanayak-she-her-259b92117/), [Twitter](https://twitter.com/TheSohini) or [Email](mailto:sohini@dabblelab.com) 
+
+Thank you!
